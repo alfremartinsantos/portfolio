@@ -1,0 +1,73 @@
+{
+    "personalDetails":
+        {
+        "name": "Alfredo",
+        "lastName": "Martín Santos",
+        "address": "C/ Los Lobos 1, 1D",
+        "postalCode": "40194",
+        "city": "Palazuelos de Eresma",
+        "state": "Segovia"
+        },
+    "education":[
+        {
+            "title": "Tecnico",
+            "center": "IES as",
+            "dateStart": "asdd",
+            "dateEnd": "asddd"
+        },
+        {
+            "title": "Tecnico",
+            "center": "IES as",
+            "dateStart": "asdd",
+            "dateEnd": "asddd"
+        },
+        {
+            "title": "Tecnico",
+            "center": "IES as",
+            "dateStart": "asdd",
+            "dateEnd": "asddd"
+        }
+    ],    
+    "workExperience":[
+        {
+            "job": "Developer",
+            "company": "IES as",
+            "skills":[
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                }
+            ],
+            "dateStart": "asdd",
+            "dateEnd": "asddd"
+        },
+        {
+            "job": "Developer",
+            "company": "IES as",
+            "skills":[
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                },                
+                {
+                    "skill": "prueba"
+                }
+            ],
+            "dateStart": "asdd",
+            "dateEnd": "asddd"
+        }
+    ]
+}
