@@ -8,6 +8,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { EducationComponent } from './schema/sections/education/education.component';
 import { PersonalDetailsComponent } from './schema/sections/personal-details/personal-details.component';
 import { WorkExperienceComponent } from './schema/sections/work-experience/work-experience.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { WorkExperienceComponent } from './schema/sections/work-experience/work-
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule 
+    HttpClientModule,
+    BrowserAnimationsModule 
   ],
   providers: [],
   bootstrap: [AppComponent]
